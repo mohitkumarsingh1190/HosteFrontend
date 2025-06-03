@@ -17,6 +17,9 @@
     "validator": "^13.9.0",
     "webfontloader": "^1.6.28"
   },
+  "engines": {
+  "node": "18.x"
+},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
